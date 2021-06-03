@@ -1,4 +1,4 @@
-# Cookie-Sales-EDA
+# Cookie-Sales-Analysis
 The DataSet contains Data for Cookie Sales(From September 2018 - December 2019) across 5 Countries i.e Canada,Mexico,Germany,France,United States.
 
 Every Country Contains following Variables:
